@@ -11,7 +11,7 @@ BuildRequires:	fontforge-python
 BuildRequires:	potrace
 BuildRequires:	python
 BuildRequires:	fontforge
-BuildRequires:	haru-devel
+BuildRequires:	libharu-devel
 BuildRequires:	pkgconfig(libpng)
 BuildRequires:	pkgconfig(libtiff-4)
 BuildRequires:	pkgconfig(lept)
